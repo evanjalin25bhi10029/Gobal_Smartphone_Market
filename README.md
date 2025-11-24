@@ -56,6 +56,7 @@ Open Jupyter Notebook
 jupyter notebook
 Run analysis notebooks to verify outputs and graphs.
 
+statment.md
 
 PROBLEM STATMENT :
 
