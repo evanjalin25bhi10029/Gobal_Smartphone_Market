@@ -51,4 +51,79 @@ jupyter notebook
 Run analysis notebooks to verify outputs and graphs.
 
 
+PROBLEM STATMENT :
+The global smartphone industry is one of the fastest-evolving markets, driven by rapid technological advancements, shifting consumer preferences, and intense competition among brands.
+However, there is no central, easy-to-use analytical tool that helps users understand:
+How smartphone brand market shares change over time
+How regions differ in smartphone adoption
+What trends drive growth or decline
+How operating systems compete globally
+How future smartphone market performance can be predicted
+This project aims to solve this gap by providing a data-driven, visual, and accessible platform to analyze and interpret global smartphone market trends using charts, datasets, and forecasting models.
+
+SCOPE OF PROJECT :
+The project focuses on the global smartphone market from both historical and predictive perspectives. It includes:
+
+In Scope,
+
+Analysis of brand-wise market share (Samsung, Apple, Xiaomi, etc.)
+Regional market trends (Asia, Europe, USA, Middle East, etc.)
+OS share comparison (Android vs iOS)
+Yearly/quarterly sales and shipment trends
+Data visualization dashboards and charts
+Predictive modeling for future market share
+
+Out of Scope,
+
+Deep hardware-level comparisons of specific smartphone models
+Real-time live data scraping from commercial sources
+Consumer-level surveys or behavior studies
+Country-by-country micro analysis (unless data is available)
+
+
+TARGET USERS :
+This project is designed for:
+1.Students & Researchers
+For academic projects, market analysis reports, and data science studies.
+
+2.Business Analysts & Market Researchers
+To track the competitive landscape and predict industry trends.
+
+3.Developers
+To integrate datasets or visualizations into apps and dashboards.
+
+4. Tech Enthusiasts
+To explore how smartphone brands are evolving globally.
+
+High-Level Features :
+
+1.  Market Share Analysis
+Brand-wise global market share breakdown
+Quarterly and yearly trend charts
+Region-based comparisons
+
+2.  Regional Insights
+Market distribution across continents
+Growth/decline patterns by region
+Emerging market identification
+
+3.  Data Visualization Dashboard
+Interactive graphs (line charts, pie charts, bar charts)
+Clean, easy-to-understand visuals
+Exportable charts for reports and presentations
+
+4.  Data Processing & Cleaning
+Preprocessed datasets from reliable sources
+Automated data cleaning pipeline (Python scripts)
+
+ 5. Predictive Analytics
+Basic machine learning / statistical models
+Forecasts for brand share and market growth
+Visualization of predicted trends
+
+6. Modular Code Structure
+Separate folders for datasets, scripts, visual outputs, and notebooks
+Easy for developers to modify or extist.
+
+
 
