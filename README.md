@@ -105,7 +105,7 @@ To integrate datasets or visualizations into apps and dashboards.
 4.Tech Enthusiasts
 To explore how smartphone brands are evolving globally.
 
-High-Level Features :
+HIGH-LEVEL FEATURES :
 
 1.  Market Share Analysis
 Brand-wise global market share breakdown
