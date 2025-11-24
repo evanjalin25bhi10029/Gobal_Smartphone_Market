@@ -1,9 +1,12 @@
 # Gobal_Smartphone_Market
 DataSet For Gobal smartphone market
 
-PROJECT TITLE : Gobal Smartphone Market
+PROJECT TITLE :
+Gobal Smartphone Market
 
-OVERVIEW : The Global Smartphone Market Project provides insights, visualizations, and analytical tools to study smartphone industry trends.
+OVERVIEW : 
+
+The Global Smartphone Market Project provides insights, visualizations, and analytical tools to study smartphone industry trends.
 It includes datasets, charts, and scripts for analyzing market share, sales growth, brand performance, operating system trends, and regional distribution.
 This project is useful for:
 Students working on data analytics or market analysis
@@ -12,6 +15,7 @@ Developers building dashboards or data-driven apps
 Anyone interested in understanding smartphone market dynamics
 
 FEATURES :
+
 Data Analysis:
 Preprocessed datasets and scripts for analyzing global smartphone market trends.
 Visualizations:
@@ -26,6 +30,7 @@ Modular Structure:
 Easy-to-understand folder structure for datasets, scripts, and results.
 
 INSTALLATION :
+
 1. Clone the Repository
 git clone https://github.com/yourusername/global-smartphone-market.git
 cd global-smartphone-market
@@ -39,6 +44,7 @@ pip install -r requirements.txt
 pip install notebook
 
 TESTING : 
+
 1. Run Data Validation Tests
 pytest tests/test_data_quality.py
 2. Run Script Functionality Tests
@@ -52,6 +58,7 @@ Run analysis notebooks to verify outputs and graphs.
 
 
 PROBLEM STATMENT :
+
 The global smartphone industry is one of the fastest-evolving markets, driven by rapid technological advancements, shifting consumer preferences, and intense competition among brands.
 However, there is no central, easy-to-use analytical tool that helps users understand:
 How smartphone brand market shares change over time
@@ -62,6 +69,7 @@ How future smartphone market performance can be predicted
 This project aims to solve this gap by providing a data-driven, visual, and accessible platform to analyze and interpret global smartphone market trends using charts, datasets, and forecasting models.
 
 SCOPE OF PROJECT :
+
 The project focuses on the global smartphone market from both historical and predictive perspectives. It includes:
 
 In Scope,
@@ -82,7 +90,9 @@ Country-by-country micro analysis (unless data is available)
 
 
 TARGET USERS :
+
 This project is designed for:
+
 1.Students & Researchers
 For academic projects, market analysis reports, and data science studies.
 
@@ -92,7 +102,7 @@ To track the competitive landscape and predict industry trends.
 3.Developers
 To integrate datasets or visualizations into apps and dashboards.
 
-4. Tech Enthusiasts
+4.Tech Enthusiasts
 To explore how smartphone brands are evolving globally.
 
 High-Level Features :
