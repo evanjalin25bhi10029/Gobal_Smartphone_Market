@@ -1,13 +1,16 @@
 # Gobal_Smartphone_Market
 DataSet For Gobal smartphone market
+
 PROJECT TITLE : Gobal Smartphone Market
+
 OVERVIEW : The Global Smartphone Market Project provides insights, visualizations, and analytical tools to study smartphone industry trends.
 It includes datasets, charts, and scripts for analyzing market share, sales growth, brand performance, operating system trends, and regional distribution.
 This project is useful for:
 Students working on data analytics or market analysis
 Researchers studying global tech trends
 Developers building dashboards or data-driven apps
-Anyone interested in understanding smartphone market dynamics 
+Anyone interested in understanding smartphone market dynamics
+
 FEATURES :
 Data Analysis:
 Preprocessed datasets and scripts for analyzing global smartphone market trends.
@@ -21,6 +24,7 @@ Region-wise Insights:
 Breakdown of market share across Asia, Europe, North America, etc.
 Modular Structure:
 Easy-to-understand folder structure for datasets, scripts, and results.
+
 INSTALLATION :
 1. Clone the Repository
 git clone https://github.com/yourusername/global-smartphone-market.git
@@ -33,6 +37,7 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 4. (Optional) Install Jupyter
 pip install notebook
+
 TESTING : 
 1. Run Data Validation Tests
 pytest tests/test_data_quality.py
