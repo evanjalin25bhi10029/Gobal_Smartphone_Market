@@ -135,6 +135,3 @@ Visualization of predicted trends
 6. Modular Code Structure
 Separate folders for datasets, scripts, visual outputs, and notebooks
 Easy for developers to modify or extist.
-
-
-
