@@ -1,8 +1,8 @@
 # Gobal_Smartphone_Market
-DataSet For Gobal smartphone market
+DataSet For Global smartphone market
 
 PROJECT TITLE :
-Gobal Smartphone Market
+Global Smartphone Market
 
 OVERVIEW : 
 
